@@ -12,7 +12,7 @@
         <name>Edgar Danson</name>
         <age>23</age>
         <grade>D</grade>
-        <email>e.danson@edulink.ac.ke</email>
+        <email>e.danson@edulink.ac.ke</email>  
         <joindate>2022-05-15</joindate>
     </student>
     <student id="s003" status="suspended">
